@@ -12,3 +12,6 @@ ILI9341 2.2Inch
 TFCARD
 Protection: Short protection. Over charging protection. Overflowing
 button changed (IO34, IO35, IO39) 
+
+
+https://github.com/LilyGO/ESP32-TTGO-T4 -- original bitcoin tracker
